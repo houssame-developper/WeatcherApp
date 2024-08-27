@@ -1,6 +1,3 @@
-
-Certainly! Here's a concise and professional description for your Weather App to include in your GitHub repository:
-
 Weather App
 A modern and responsive Weather App built with ReactJS, TailwindCSS, and HTML/CSS. This application provides real-time weather updates and forecasts for any location around the globe.
 
